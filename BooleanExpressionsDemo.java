@@ -3,8 +3,6 @@ public class BooleanExpressionsDemo {
 
 boolean isJavaFun = true;
 boolean isHomeworkTiring = false;
-boolean isJavaFun = true;
-boolean isHomeworkTiring = false;
 int a = 15;
 int b = 20;
 boolean isAGreater = a > b;
